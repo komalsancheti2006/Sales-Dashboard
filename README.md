@@ -14,4 +14,4 @@ Source: Kaggle
 Data on sales of products of different categories such as Office, Electronics and Accessories.
 Data contains information regarding sales such as : Order Date,Product Name,Category,Region,Quantity,Sales,Profit.
 7. Screenshots
-8. 
+8. https://github.com/komalsancheti2006/Sales-Dashboard/blob/main/Sales_Dashboard.png
